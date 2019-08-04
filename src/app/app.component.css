@@ -1,0 +1,19 @@
+.test {
+  color: green;
+  border: green solid 20px;
+  width: 500px;
+  height: 500px;
+  margin-leftt: 200px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.test2 {
+  color: red;
+  border: red solid 5px;
+  width: 100px;
+  height: 100px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
