@@ -17,3 +17,29 @@
   padding-left: 20px;
 }
 
+.relative {
+  color: green;
+  border: green solid 20px;
+  position: relative;
+  width: 600px;
+  height: 400px;
+}
+
+.absolute {
+  position: absolute;
+  top: 120px;
+  right: 0;
+  widows: 300px;
+  height: 200px;
+  color: red;
+  border: red solid 5px;
+}
+
+.box2 {
+  color: red;
+  border: red solid 2px;
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 10px;
+}
